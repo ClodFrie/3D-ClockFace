@@ -4,9 +4,13 @@ Create a clock with LaTeX expressions as numerals.
 
 
 <img width="400" border="10" src="https://github.com/ClodFrie/3D-ClockFace/blob/main/MockUp.png">
+
+
+
 ## Generate SVGs based on LaTeX expressions
 
-https://viereck.ch/latex-to-svg/
+Website: https://viereck.ch/latex-to-svg/
+
 
 ### Primary Numbers
 * <img src="https://render.githubusercontent.com/render/math?math=\color{red}12=\int_{1}^{e^2}\frac{6}{x}\,\textrm{d}x">
