@@ -2,6 +2,8 @@
 
 Create a clock with LaTeX expressions as numerals. 
 
+
+<img width="400" border="10" src="https://github.com/ClodFrie/3D-ClockFace/blob/main/MockUp.png">
 ## Generate SVGs based on LaTeX expressions
 
 https://viereck.ch/latex-to-svg/
